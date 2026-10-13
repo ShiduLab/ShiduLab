@@ -20,7 +20,7 @@ Uno spazio di sperimentazione, dove le idee diventano strumenti e gli strumenti 
 
 <div align="center">
 
-<a href="https://www.shidulab.org/Kung-Funk-RackBox/"><img src="https://www.shidulab.org/Kung-Funk-RackBox/pareti/rack-originale.jpg" width="360" alt="Il rack Hi-Fi originale nella stanza Kung-Funk di ShiduLab"></a>
+<a href="https://www.shidulab.org/Kung-Funk-RackBox/"><img src="https://www.shidulab.org/ia/Im/FunkyTown/netVision/Mzk/RackRadio/pareti/rack-originale.jpg" width="360" alt="Il rack Hi-Fi originale nella stanza Kung-Funk di ShiduLab"></a>
 <a href="https://www.shidulab.org/L-AudioVisivo/"><img src="https://raw.githubusercontent.com/ShiduLab/L-AudioVisivo/main/assets/laudiovisivo-anteprima-reale.jpg" width="290" alt="Anteprima autentica e ridotta della sala L’AudioVisivo"></a>
 
 **[MiDiaFlowʲ · Kung-Funk RackBox](https://github.com/ShiduLab/MiDiaFlow)** · **[L’AudioVisivo](https://github.com/ShiduLab/L-AudioVisivo)**
