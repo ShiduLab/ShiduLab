@@ -47,7 +47,16 @@ I **Pinned** di GitHub mostrano al massimo sei repository. Qui trovi la mappa co
 
 | Progetto | Dentro il laboratorio | Percorso |
 | :-- | :-- | :-- |
-| **[BUGHUNTED-Duranted](https://github.com/ShiduLab/BUGHUNTED-Duranted)** | Bughunting narrato, installazioni, osservazione tecnica, God’s Eye View e sperimentazioni sugli LLM. | [**God's Eye View ↗**](https://shidulab.github.io/BUGHUNTED-Duranted/gods-eye-view.html) |
+| **[BUGHUNTED-Duranted](https://github.com/ShiduLab/BUGHUNTED-Duranted)** | Serie di **sei Paperi**: bughunting, ricerca LLM, installazioni e manuali narrati. | [**Indice completo dei 6 ↗**](https://shidulab.github.io/BUGHUNTED-Duranted/) |
+
+**I sei Paperi di BUGHUNTED-Duranted**
+
+1. **[La rima che viene prima](https://shidulab.github.io/BUGHUNTED-Duranted/la-rima-che-viene-prima.html)** — Primo Paperi della serie.
+2. **[La rima che viene prima II](https://shidulab.github.io/BUGHUNTED-Duranted/la-rima-che-viene-prima-ii.html)** — Secondo Paperi della serie.
+3. **[Can Parrots Jump?](https://shidulab.github.io/BUGHUNTED-Duranted/can-parrots-jump.html)** — Dossier esplorativo tra LLMC e LLM.
+4. **[God’s Eye View — Paperi completo](https://shidulab.github.io/BUGHUNTED-Duranted/gods-eye-view.html#paperi)** — Dal ViviVediSeziona al Cockpit.
+5. **[L’ora fantasma del blocco schermo](https://shidulab.github.io/BUGHUNTED-Duranted/windows-lock-screen-ora-fantasma.html)** — Manuale narrato del bug del lock screen.
+6. **[BugHunted Duranted Resolved — Tre cursori per sentire](https://www.shidulab.org/Scribati/tre-cursori-per-sentire.html)** — Dal desiderio alla regolazione dell'ascolto.
 
 ---
 
