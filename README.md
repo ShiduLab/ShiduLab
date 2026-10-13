@@ -63,7 +63,7 @@ Alcuni repository distribuiscono applicazioni o codice; altri documentano protot
 
 *DJ · Breaker · Rapper/MC · Musicista · Informatico - Ricercatore indipendente*
 
-**FilosoVia — Indirizzo Edutainment**
+**FilosoVia ☼ Indirizzo Edutainment**
 
 [**www.shidulab.org**](https://www.shidulab.org/)
 
