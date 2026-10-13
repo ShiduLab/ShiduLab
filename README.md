@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://www.shidulab.org/"><img src="assets/botolo-solo-nero.png" width="230" alt="Botolo ShiduLab, versione approvata con contorno bianco netto e simbolo JS ciano"></a>
+<a href="https://www.shidulab.org/"><img src="assets/botolo-centrato.png" width="230" alt="Botolo ShiduLab, versione approvata con contorno bianco netto e simbolo JS ciano"></a>
 
 # ShiduLab
 
