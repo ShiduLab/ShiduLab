@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://www.shidulab.org/"><img src="https://raw.githubusercontent.com/ShiduLab/BUGHUNTED-Duranted/main/assets/botologo-gev-cyan.png" width="300" alt="BotoLogo originale ShiduLab, nero pieno e ciano"></a>
+<a href="https://www.shidulab.org/"><img src="assets/botolo-solo-nero.png" width="170" alt="Botolo originale ShiduLab, nero pieno, senza scritta"></a>
 
 # ShiduLab
 
