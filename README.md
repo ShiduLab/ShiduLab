@@ -61,7 +61,7 @@ Alcuni repository distribuiscono applicazioni o codice; altri documentano protot
 
 **Josta · ShiduLab**
 
-*DJ · Breaker · Rapper/MC · Musicista · Ricercatore indipendente*
+*DJ · Breaker · Rapper/MC · Musicista · Informatico - Ricercatore indipendente*
 
 **FilosoVia — Indirizzo Edutainment**
 
