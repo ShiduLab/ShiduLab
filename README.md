@@ -10,15 +10,15 @@
 
 Uno spazio di sperimentazione, dove le idee diventano strumenti e gli strumenti aprono altre vie.
 
-[**Visita ShiduLab.org**](https://www.shidulab.org/) · [**FunkyTown / MiDiaFlowʲ**](https://www.shidulab.org/Kung-Funk-RackBox/) · [**L’AudioVisivo**](https://www.shidulab.org/L-AudioVisivo/)
+[**Visita ShiduLab.org**](https://www.shidulab.org/) · [**FunkyTown / MiDiaFlowʲ**](https://www.shidulab.org/Kung-Funk-RackBox/) · [**L’AudioVisivo**](https://www.shidulab.org/L-AudioVisivo/) · [**SofficiWare**](https://www.shidulab.org/SofficiWare-ShiduLab/)
 
 </div>
 
 ---
 
-## I progetti · 9 percorsi
+## I progetti · 10 percorsi
 
-I **Pinned** di GitHub mostrano al massimo sei repository. Qui trovi la mappa completa dei **nove percorsi** del laboratorio, compresi quelli che non entrano nella vetrina automatica.
+I **Pinned** di GitHub mostrano al massimo sei repository. Qui trovi la mappa completa dei **dieci percorsi** del laboratorio, compresi quelli che non entrano nella vetrina automatica.
 
 ### Musica e immagini
 
@@ -32,7 +32,8 @@ I **Pinned** di GitHub mostrano al massimo sei repository. Qui trovi la mappa co
 | Progetto | Dentro il laboratorio | Percorso |
 | :-- | :-- | :-- |
 | **[GoList!](https://github.com/ShiduLab/GoList)** | Dal 2002 al presente: liste di file, metadati, esportazioni e GoPlayList!/MediaFlow. | [**Repository ↗**](https://github.com/ShiduLab/GoList) |
-| **[Kunta](https://github.com/ShiduLab/Kunta)** | Contare e raccontare un testo: lettere, frequenze, anagrammi e trasformazioni linguistiche. | [**Prova / scopri ↗**](https://shidulab.github.io/Kunta/) |
+| **[Apposto!](https://github.com/ShiduLab/Apposto)** | Il tuo clone, a posto: aggiorna una cartella con i file nuovi o modificati già selezionati, conservando le versioni sostituite. **Windows portatile.** | [**Scarica Apposto! (.exe)**](https://github.com/ShiduLab/Apposto/releases/download/v0.1.0/Apposto.exe) |
+| **[Kunta!](https://github.com/ShiduLab/Kunta)** | Contare e raccontare un testo: lettere, frequenze, anagrammi e trasformazioni linguistiche. | [**Prova / scopri ↗**](https://shidulab.github.io/Kunta/) |
 | **[ComboCode](https://github.com/ShiduLab/ComboCode)** | Un obiettivo, più route: scorciatoie, comandi e percorsi di accesso a Windows e alle applicazioni. | [**Prova sul web ↗**](https://shidulab.github.io/ComboCode/) |
 
 ### Vita quotidiana, gioco e memoria
@@ -79,3 +80,4 @@ Alcuni repository distribuiscono applicazioni o codice; altri documentano protot
 *Nello Spazio tra le mie Parole.*
 
 </div>
+
