@@ -10,7 +10,7 @@
 
 Uno spazio di sperimentazione, dove le idee diventano strumenti e gli strumenti aprono altre vie.
 
-[**Visita ShiduLab.org**](https://www.shidulab.org/) · [**FunkyTown / MiDiaFlowʲ**](https://www.shidulab.org/Kung-Funk-RackBox/) · [**L’AudioVisivo**](https://www.shidulab.org/L-AudioVisivo/) · [**SofficiWare**](https://www.shidulab.org/SofficiWare-ShiduLab/)
+[**Visita ShiduLab.org**](https://www.shidulab.org/) · [**FunkyTown / MiDiaFlowʲ**](https://www.shidulab.org/Kung-Funk-RackBox/) · [**L’AudioVisivo**](https://www.shidulab.org/L-AudioVisivo/) · [**SofficiWare**](https://www.shidulab.org/SofficiWare-ShiduLab/) · [**AppArecchio**](https://github.com/ShiduLab/AppArecchio)
 
 </div>
 
