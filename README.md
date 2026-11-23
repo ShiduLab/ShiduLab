@@ -10,15 +10,40 @@
 
 Uno spazio di sperimentazione, dove le idee diventano strumenti e gli strumenti aprono altre vie.
 
-[**Visita ShiduLab.org**](https://www.shidulab.org/) · [**FunkyTown / MiDiaFlowʲ**](https://www.shidulab.org/Kung-Funk-RackBox/) · [**L’AudioVisivo**](https://www.shidulab.org/L-AudioVisivo/) · [**SofficiWare**](https://www.shidulab.org/SofficiWare-ShiduLab/) · [**AppArecchio J.1**](https://github.com/ShiduLab/AppArecchio/releases/tag/J.1)
+[**Visita ShiduLab.org**](https://www.shidulab.org/) · [**FunkyTown / MiDiaFlowʲ**](https://www.shidulab.org/Kung-Funk-RackBox/) · [**L’AudioVisivo**](https://www.shidulab.org/L-AudioVisivo/) · [**SofficiWare**](https://www.shidulab.org/SofficiWare-ShiduLab/) · [**AppArecchio Tattico J.1.4**](https://www.shidulab.org/SofficiWare-ShiduLab/AppArecchio-Tattico.html)
+
+[Repository GitHub](https://github.com/ShiduLab?tab=repositories) · [Repository GitLab](https://gitlab.com/shidulab-orchestra)
 
 </div>
 
----
+## Esplora ShiduLab.org
 
-## I progetti · 10 percorsi
+| Luogo | Cosa trovi |
+| :-- | :-- |
+| [Isola](https://www.shidulab.org/Isola/) | Una mappa da esplorare, con edifici da visitare e una Piazza del Dialogo. |
+| [FunkyTown · Kung Funk Radio](https://www.shidulab.org/Kung-Funk-Radio/) | La radio di FunkyTown e l’accesso alla sua raccolta musicale. |
+| [RackBox MiDiaFlowʲ](https://www.shidulab.org/Kung-Funk-RackBox/) | Il rack musicale con giradischi, mixer e BustaBanda. |
+| [L’AudioVisivo](https://www.shidulab.org/L-AudioVisivo/) | Sala di proiezione di FunkyTown e telecomando virtuale. |
+| [ЯOTOR](https://www.shidulab.org/%D0%AFOTOR/) | Galleria fotografica dall’archivio di Josta. |
+| [MoltoTeca](https://www.shidulab.org/MoltoTeca/) | L’archivio che riunisce opere, video, letture e documenti. |
+| [eLetture](https://www.shidulab.org/eLetture/) | Libri, documenti e percorsi di lettura. |
+| [TeatroTeca](https://www.shidulab.org/Teatroteca/) | Serie, opere, testi e documenti, da "I nostri discorsi..." a EvGraal e al piccolo Billy. |
+| [Galleria d’arTec](https://www.shidulab.org/Galleria-darTec/) | Le sale espositive del MyEstro Scriba de Seu. |
+| [La vagnetta](https://www.shidulab.org/Lavagnetta/) | Dirette ed episodi video di Josta. |
+| [Scribati](https://www.shidulab.org/Scribati/) | Articoli, dossier e cronache di laboratorio. |
+| [SofficiWare](https://www.shidulab.org/SofficiWare-ShiduLab/) | Il catalogo delle applicazioni e degli utensili del laboratorio. |
 
-I **Pinned** di GitHub mostrano al massimo sei repository. Qui trovi la mappa completa dei **dieci percorsi** del laboratorio, compresi quelli che non entrano nella vetrina automatica.
+
+## Progetti e programmi
+
+Applicazioni Android e Windows, strumenti web e progetti di musica, gioco e ricerca.
+
+### Ascolto su Android
+
+| Progetto | Dentro il laboratorio | Percorso |
+| :-- | :-- | :-- |
+| **[AppArecchio Tattico J.1.4](https://github.com/ShiduLab/AppArecchio)** | Ascolto ambientale in cuffia, anche mentre usi altre app. Cinque cursori verticali BustaBanda, filtro a fondo corsa, denoise, attenuazione dei picchi e profili locali. | [**Presentazione e APK**](https://www.shidulab.org/SofficiWare-ShiduLab/AppArecchio-Tattico.html) |
+
 
 ### Musica e immagini
 
@@ -31,7 +56,9 @@ I **Pinned** di GitHub mostrano al massimo sei repository. Qui trovi la mappa co
 
 | Progetto | Dentro il laboratorio | Percorso |
 | :-- | :-- | :-- |
+| **[LogoLog.ico](https://www.shidulab.org/LogoLogico/)** | Rimario per desinenze, sinonimi e contrari. | [**Apri LogoLog.ico**](https://www.shidulab.org/LogoLogico/) |
 | **[GoList!](https://github.com/ShiduLab/GoList)** | Dal 2002 al presente: liste di file, metadati, esportazioni e GoPlayList!/MediaFlow. | [**Repository ↗**](https://github.com/ShiduLab/GoList) |
+| **[TrovArt!](https://www.shidulab.org/SofficiWare-ShiduLab/TrovArt.html)** | Cerca e salva copertine per MP3. Gira da solo o si apre da GoList!. | [**Scheda e download per Windows**](https://www.shidulab.org/SofficiWare-ShiduLab/TrovArt.html) |
 | **[Apposto!](https://github.com/ShiduLab/Apposto)** | Il tuo clone, a posto: aggiorna una cartella con i file nuovi o modificati già selezionati, conservando le versioni sostituite. **Windows portatile.** | [**Scarica Apposto! (.exe)**](https://github.com/ShiduLab/Apposto/releases/download/v0.1.0/Apposto.exe) |
 | **[Kunta!](https://github.com/ShiduLab/Kunta)** | Contare e raccontare un testo: lettere, frequenze, anagrammi e trasformazioni linguistiche. | [**Prova / scopri ↗**](https://shidulab.github.io/Kunta/) |
 | **[ComboCode](https://github.com/ShiduLab/ComboCode)** | Un obiettivo, più route: scorciatoie, comandi e percorsi di accesso a Windows e alle applicazioni. | [**Prova sul web ↗**](https://shidulab.github.io/ComboCode/) |
@@ -52,14 +79,12 @@ I **Pinned** di GitHub mostrano al massimo sei repository. Qui trovi la mappa co
 
 **I sei Paperi di BUGHUNTED-Duranted**
 
-1. **[La rima che viene prima](https://shidulab.github.io/BUGHUNTED-Duranted/la-rima-che-viene-prima.html)** — Primo Paperi della serie.
-2. **[La rima che viene prima II](https://shidulab.github.io/BUGHUNTED-Duranted/la-rima-che-viene-prima-ii.html)** — Secondo Paperi della serie.
-3. **[Can Parrots Jump?](https://shidulab.github.io/BUGHUNTED-Duranted/can-parrots-jump.html)** — Dossier esplorativo tra LLMC e LLM.
-4. **[God’s Eye View — Paperi completo](https://shidulab.github.io/BUGHUNTED-Duranted/gods-eye-view.html#paperi)** — Dal ViviVediSeziona al Cockpit.
-5. **[L’ora fantasma del blocco schermo](https://shidulab.github.io/BUGHUNTED-Duranted/windows-lock-screen-ora-fantasma.html)** — Manuale narrato del bug del lock screen.
-6. **[BugHunted Duranted Resolved — Tre cursori per sentire](https://www.shidulab.org/Scribati/tre-cursori-per-sentire.html)** — Dal desiderio alla regolazione dell'ascolto.
-
----
+1. **[La rima che viene prima](https://shidulab.github.io/BUGHUNTED-Duranted/la-rima-che-viene-prima.html)** · Primo Paperi della serie.
+2. **[La rima che viene prima II](https://shidulab.github.io/BUGHUNTED-Duranted/la-rima-che-viene-prima-ii.html)** · Secondo Paperi della serie.
+3. **[Can Parrots Jump?](https://shidulab.github.io/BUGHUNTED-Duranted/can-parrots-jump.html)** · Dossier esplorativo tra LLMC e LLM.
+4. **[God’s Eye View · Paperi completo](https://shidulab.github.io/BUGHUNTED-Duranted/gods-eye-view.html#paperi)** · Dal ViviVediSeziona al Cockpit.
+5. **[L’ora fantasma del blocco schermo](https://shidulab.github.io/BUGHUNTED-Duranted/windows-lock-screen-ora-fantasma.html)** · Manuale narrato del bug del lock screen.
+6. **[BugHunted Duranted Resolved · Tre cursori per sentire](https://www.shidulab.org/Scribati/tre-cursori-per-sentire.html)** · Dal desiderio alla regolazione dell'ascolto.
 
 ## La firma è nei progetti
 
@@ -71,7 +96,7 @@ Alcuni repository distribuiscono applicazioni o codice; altri documentano protot
 
 **Josta · ShiduLab**
 
-*DJ · Breaker · Rapper/MC · Musicista · Informatico - Ricercatore indipendente*
+*DJ · Breaker · Rapper/MC · Musicista · Informatico · Ricercatore indipendente*
 
 **FilosoVia ☼ Indirizzo Edutainment**
 
