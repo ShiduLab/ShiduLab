@@ -36,46 +36,34 @@ Uno spazio di sperimentazione, dove le idee diventano strumenti e gli strumenti 
 
 ## Progetti e programmi
 
-Applicazioni Android e Windows, strumenti web e progetti di musica, gioco e ricerca.
+<table width="100%">
+<tr>
+<td width="50%" valign="top"><h3><a href="https://github.com/ShiduLab/AppArecchio">AppArecchio Tattico J.1.12</a></h3><p>Ascolto ambientale in cuffia, anche mentre usi altre app. BustaBanda con dieci bande parametriche in un modulo a scorrimento orizzontale, riduzione del rumore, attenuazione dei picchi e profili locali.</p><a href="https://www.shidulab.org/SofficiWare-ShiduLab/AppArecchio-Tattico.html">Presentazione e APK</a></td>
+<td width="50%" valign="top"><h3><a href="https://github.com/ShiduLab/MiDiaFlow">MiDiaFlowʲ</a></h3><p>La stanza dello sHI-FIdu: rack Hi-Fi, giradischi, doppio deck, mixer, tuner ed equalizzatore.</p><a href="https://www.shidulab.org/Kung-Funk-RackBox/">Apri il rack</a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><h3><a href="https://github.com/ShiduLab/L-AudioVisivo">L’AudioVisivo</a></h3><p>Il suono ha un&#39;immagine: sala di proiezione, telecomando virtuale, BustaBanda e DJ Sam Paul.</p><a href="https://www.shidulab.org/L-AudioVisivo/">Entra in sala</a></td>
+<td width="50%" valign="top"><h3><a href="https://www.shidulab.org/LogoLogico/">LogoLog.ico</a></h3><p>Rimario per desinenze, sinonimi e contrari.</p><a href="https://www.shidulab.org/LogoLogico/">Apri LogoLog.ico</a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><h3><a href="https://github.com/ShiduLab/GoList">GoList!</a></h3><p>Dal 2002 al presente: liste di file, metadati, esportazioni e GoPlayList!/MediaFlow.</p><a href="https://github.com/ShiduLab/GoList">Repository</a></td>
+<td width="50%" valign="top"><h3><a href="https://www.shidulab.org/SofficiWare-ShiduLab/TrovArt.html">TrovArt!</a></h3><p>Cerca e salva copertine per MP3. Gira da solo o si apre da GoList!.</p><a href="https://www.shidulab.org/SofficiWare-ShiduLab/TrovArt.html">Scheda e download per Windows</a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><h3><a href="https://github.com/ShiduLab/Apposto">Apposto!</a></h3><p>Il tuo clone, a posto: aggiorna una cartella con i file nuovi o modificati già selezionati, conservando le versioni sostituite. Windows portatile.</p><a href="https://github.com/ShiduLab/Apposto/releases/download/v0.1.0/Apposto.exe">Scarica Apposto! (.exe)</a></td>
+<td width="50%" valign="top"><h3><a href="https://github.com/ShiduLab/Kunta">Kunta!</a></h3><p>Contare e raccontare un testo: lettere, frequenze, anagrammi e trasformazioni linguistiche.</p><a href="https://shidulab.github.io/Kunta/">Prova / scopri</a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><h3><a href="https://github.com/ShiduLab/ComboCode">ComboCode</a></h3><p>Un obiettivo, più route: scorciatoie, comandi e percorsi di accesso a Windows e alle applicazioni.</p><a href="https://shidulab.github.io/ComboCode/">Prova sul web</a></td>
+<td width="50%" valign="top"><h3><a href="https://github.com/ShiduLab/Appetito">Appetito</a></h3><p>Ricette dagli ingredienti che hai, con attenzione al tempo e a ciò che non vuoi sprecare.</p><a href="https://shidulab.github.io/Appetito/">Apri l&#39;app</a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><h3><a href="https://github.com/ShiduLab/MyJong-Gallery">MyJong-Gallery</a></h3><p>La vetrina pubblica di MyJong: concept, demo e distribuzioni selezionate.</p><a href="https://myjong-gallery-demo-gigiopex-8740.vercel.app">Prova la demo</a></td>
+<td width="50%" valign="top"><h3><a href="https://github.com/ShiduLab/BUGHUNTED-Duranted">BUGHUNTED-Duranted</a></h3><p>Serie di sei Paperi: bughunting, ricerca LLM, installazioni e manuali narrati.</p><a href="https://shidulab.github.io/BUGHUNTED-Duranted/">Indice completo dei 6</a></td>
+</tr>
+</table>
 
-### Ascolto su Android
-
-| Progetto | Dentro il laboratorio | Percorso |
-| :-- | :-- | :-- |
-| **[AppArecchio Tattico J.1.12](https://github.com/ShiduLab/AppArecchio)** | Ascolto ambientale in cuffia, anche mentre usi altre app. BustaBanda con dieci bande parametriche in un modulo a scorrimento orizzontale, riduzione del rumore, attenuazione dei picchi e profili locali. | [**Presentazione e APK**](https://www.shidulab.org/SofficiWare-ShiduLab/AppArecchio-Tattico.html) |
-
-
-### Musica e immagini
-
-| Progetto | Dentro il laboratorio | Percorso |
-| :-- | :-- | :-- |
-| **[MiDiaFlowʲ](https://github.com/ShiduLab/MiDiaFlow)** | La stanza dello sHI-FIdu: rack Hi-Fi, giradischi, doppio deck, mixer, tuner ed equalizzatore. | [**Apri il rack ↗**](https://www.shidulab.org/Kung-Funk-RackBox/) |
-| **[L’AudioVisivo](https://github.com/ShiduLab/L-AudioVisivo)** | Il suono ha un'immagine: sala di proiezione, telecomando virtuale, BustaBanda e DJ Sam Paul. | [**Entra in sala ↗**](https://www.shidulab.org/L-AudioVisivo/) |
-
-### Parole, comandi e file
-
-| Progetto | Dentro il laboratorio | Percorso |
-| :-- | :-- | :-- |
-| **[LogoLog.ico](https://www.shidulab.org/LogoLogico/)** | Rimario per desinenze, sinonimi e contrari. | [**Apri LogoLog.ico**](https://www.shidulab.org/LogoLogico/) |
-| **[GoList!](https://github.com/ShiduLab/GoList)** | Dal 2002 al presente: liste di file, metadati, esportazioni e GoPlayList!/MediaFlow. | [**Repository ↗**](https://github.com/ShiduLab/GoList) |
-| **[TrovArt!](https://www.shidulab.org/SofficiWare-ShiduLab/TrovArt.html)** | Cerca e salva copertine per MP3. Gira da solo o si apre da GoList!. | [**Scheda e download per Windows**](https://www.shidulab.org/SofficiWare-ShiduLab/TrovArt.html) |
-| **[Apposto!](https://github.com/ShiduLab/Apposto)** | Il tuo clone, a posto: aggiorna una cartella con i file nuovi o modificati già selezionati, conservando le versioni sostituite. **Windows portatile.** | [**Scarica Apposto! (.exe)**](https://github.com/ShiduLab/Apposto/releases/download/v0.1.0/Apposto.exe) |
-| **[Kunta!](https://github.com/ShiduLab/Kunta)** | Contare e raccontare un testo: lettere, frequenze, anagrammi e trasformazioni linguistiche. | [**Prova / scopri ↗**](https://shidulab.github.io/Kunta/) |
-| **[ComboCode](https://github.com/ShiduLab/ComboCode)** | Un obiettivo, più route: scorciatoie, comandi e percorsi di accesso a Windows e alle applicazioni. | [**Prova sul web ↗**](https://shidulab.github.io/ComboCode/) |
-
-### Vita quotidiana, gioco e memoria
-
-| Progetto | Dentro il laboratorio | Percorso |
-| :-- | :-- | :-- |
-| **[Appetito](https://github.com/ShiduLab/Appetito)** | Ricette dagli ingredienti che hai, con attenzione al tempo e a ciò che non vuoi sprecare. | [**Apri l'app ↗**](https://shidulab.github.io/Appetito/) |
-| **MyJong** | Il motore di gioco: fotografie personali, riconoscimento, identità, appartenenza e memoria. **Sviluppo privato.** | [**Presentazione pubblica ↗**](https://github.com/ShiduLab/MyJong-Gallery) |
-| **[MyJong-Gallery](https://github.com/ShiduLab/MyJong-Gallery)** | La vetrina pubblica di MyJong: concept, demo e distribuzioni selezionate. | [**Prova la demo ↗**](https://myjong-gallery-demo-gigiopex-8740.vercel.app) |
-
-### Ricerca e cronache di laboratorio
-
-| Progetto | Dentro il laboratorio | Percorso |
-| :-- | :-- | :-- |
-| **[BUGHUNTED-Duranted](https://github.com/ShiduLab/BUGHUNTED-Duranted)** | Serie di **sei Paperi**: bughunting, ricerca LLM, installazioni e manuali narrati. | [**Indice completo dei 6 ↗**](https://shidulab.github.io/BUGHUNTED-Duranted/) |
+**MyJong.** Il motore di gioco è in sviluppo privato. [Presentazione pubblica su MyJong-Gallery](https://github.com/ShiduLab/MyJong-Gallery).
 
 **I sei Paperi di BUGHUNTED-Duranted**
 
