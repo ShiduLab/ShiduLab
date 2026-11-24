@@ -10,7 +10,7 @@
 
 Uno spazio di sperimentazione, dove le idee diventano strumenti e gli strumenti aprono altre vie.
 
-[**Visita ShiduLab.org**](https://www.shidulab.org/) · [**FunkyTown / MiDiaFlowʲ**](https://www.shidulab.org/Kung-Funk-RackBox/) · [**L’AudioVisivo**](https://www.shidulab.org/L-AudioVisivo/) · [**SofficiWare**](https://www.shidulab.org/SofficiWare-ShiduLab/) · [**AppArecchio Tattico J.1.4**](https://www.shidulab.org/SofficiWare-ShiduLab/AppArecchio-Tattico.html)
+[**Visita ShiduLab.org**](https://www.shidulab.org/) · [**FunkyTown / MiDiaFlowʲ**](https://www.shidulab.org/Kung-Funk-RackBox/) · [**L’AudioVisivo**](https://www.shidulab.org/L-AudioVisivo/) · [**SofficiWare**](https://www.shidulab.org/SofficiWare-ShiduLab/) · [**AppArecchio Tattico J.1.12**](https://www.shidulab.org/SofficiWare-ShiduLab/AppArecchio-Tattico.html)
 
 [Repository GitHub](https://github.com/ShiduLab?tab=repositories) · [Repository GitLab](https://gitlab.com/shidulab-orchestra)
 
@@ -42,7 +42,7 @@ Applicazioni Android e Windows, strumenti web e progetti di musica, gioco e rice
 
 | Progetto | Dentro il laboratorio | Percorso |
 | :-- | :-- | :-- |
-| **[AppArecchio Tattico J.1.4](https://github.com/ShiduLab/AppArecchio)** | Ascolto ambientale in cuffia, anche mentre usi altre app. Cinque cursori verticali BustaBanda, filtro a fondo corsa, denoise, attenuazione dei picchi e profili locali. | [**Presentazione e APK**](https://www.shidulab.org/SofficiWare-ShiduLab/AppArecchio-Tattico.html) |
+| **[AppArecchio Tattico J.1.12](https://github.com/ShiduLab/AppArecchio)** | Ascolto ambientale in cuffia, anche mentre usi altre app. BustaBanda con dieci bande parametriche in un modulo a scorrimento orizzontale, riduzione del rumore, attenuazione dei picchi e profili locali. | [**Presentazione e APK**](https://www.shidulab.org/SofficiWare-ShiduLab/AppArecchio-Tattico.html) |
 
 
 ### Musica e immagini
